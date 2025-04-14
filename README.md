@@ -31,8 +31,8 @@ Historical housing data for California, provided by the StatLib repository and s
 
 ##  Repository Contents
 
-- `data: Folder containing the dataset.  Pdf: A pdf of the whole script and visualizations.
-- `notebooks/`: Jupyter Notebooks scripyt:
+- `data: Folder containing the dataset.  
+- `Pdf: A pdf of the whole script and visualizations.
 - `Cali_Housing.ipynb`: Main analysis notebook
 - `README.md`: Project documentation
 
@@ -54,9 +54,9 @@ Historical housing data for California, provided by the StatLib repository and s
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
-Feel free to contribute by adding new features, improving model accuracy, or experimenting with different algorithms (e.g., Random Forest, XGBoost, Gradient Boosting). Pull requests are welcome!
+Feel free to contribute by adding new features, improving model accuracy, or experimenting with different algorithms. Pull requests are welcome!
 
 ---
 
@@ -65,6 +65,6 @@ Feel free to contribute by adding new features, improving model accuracy, or exp
 **Author**: Faizan Danish Bokhari  
 📍 Franklin, MA  
 📧 faizanbokhari7@gmail.com  
-🔗 [GitHub Profile](https://github.com/fbokhari7)
+🔗 (https://github.com/fbokhari7)
 
 ---
