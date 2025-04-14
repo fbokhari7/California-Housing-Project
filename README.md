@@ -31,8 +31,8 @@ Historical housing data for California, provided by the StatLib repository and s
 
 ##  Repository Contents
 
-- `data: Folder containing the dataset.  
-- `Pdf: A pdf of the whole script and visualizations.
+- `data` Folder containing the dataset.  
+- `Pdf` A pdf of the whole script and visualizations.
 - `Cali_Housing.ipynb`: Main analysis notebook
 - `README.md`: Project documentation
 
