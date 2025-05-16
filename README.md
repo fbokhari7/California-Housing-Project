@@ -48,12 +48,6 @@ Historical housing data for California, provided by the StatLib repository and s
 
 ---
 
-## 🔗 Dataset Source
-
-[California Housing Dataset - scikit-learn documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
-
----
-
 ## Contribution
 
 Feel free to contribute by adding new features, improving model accuracy, or experimenting with different algorithms. Pull requests are welcome!
